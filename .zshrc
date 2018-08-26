@@ -1,5 +1,5 @@
 
-CODESTATS_API_KEY="SFMyNTY.Y21GMmFTMXlZV3B3ZFhKdmFHbDAjI016QXhNQT09.1evqNXYzJSKrvN_JaYoxzsufnUM-fQ1WE3gZ4Tuu44U"
+CODESTATS_API_KEY="<Your Api Key here>"
 
 # load zgen
 source "${HOME}/.zgen/zgen.zsh"
