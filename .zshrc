@@ -16,6 +16,7 @@ if ! zgen saved; then
     zgen oh-my-zsh plugins/command-not-found
     zgen load zsh-users/zsh-syntax-highlighting
     zgen load https://gitlab.com/code-stats/code-stats-zsh.git
+    zgen load https://github.com/zsh-users/zsh-autosuggestions.git
     #zgen load /path/to/super-secret-private-plugin
 
     # bulk load
